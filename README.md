@@ -9,6 +9,7 @@ Portfólio Dev em HTML e CSS Puro para teste de deploy GitPages
 > CSS
 * Flex-Box
 * Media Query
+* Váriaveis de ambiente **_`Root:`_**
 
 > Bibliotécas Externas:
 * [Ionic Icons](https://ionic.io/ionicons/usage)
